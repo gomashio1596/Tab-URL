@@ -1,0 +1,15 @@
+{
+    "name": "Tab Url",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "Copy selected tab urls to clipboard",
+    "permissions": [
+        "tabs"
+    ],
+    "icons": {
+        "128": "128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
