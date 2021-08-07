@@ -2,6 +2,9 @@
 選択(`highlighted`)されているタブのURLを一括でクリップボードにコピーする  
 ([The Marvellous Suspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa "chrome ウェブストア")でサスペンドされたタブはURLの代わりに`uri=`の部分の文字列がコピーされます)  
 
+# 使い方
+タブを選択した状態で拡張機能のアイコンをクリックする  
+
 # インストール
 右上の`Code`押して`Download ZIP`を押してファイルをダウンロード  
 適当な場所に展開したらChromeを開いて`設定>拡張機能>パッケージ化されていない拡張機能を読み込む`  を押す  
